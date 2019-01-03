@@ -1,3 +1,5 @@
+#Read in a DNA string
+#a better edit to this would be to allow it to read in fasta format
 import sys
 seq_handle = sys.argv[1]
 seq_file = open(seq_handle)
