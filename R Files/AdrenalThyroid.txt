@@ -1,0 +1,8 @@
+Cell
+Adrenal4.a.s	
+Adrenal4.c.s	
+Adrenal4.d.s	
+Thyroid5.a.s	
+Thyroid5.b.s	
+Thyroid5.c.s	
+Thyroid5.d.s	
